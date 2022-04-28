@@ -13,3 +13,9 @@ react-microfrontend-3: localhost:8083
 ------------------------------------------------------------------
 
 A modo de ejercicio, en la rama *resolver* hay un micro-frontend que no funciona porque esta mal configurado y no se muestra en la app contenedora.
+
+------------------------------------------------------------------
+
+Repositorio original: https://github.com/ranyelhousieny/micro-front-ends
+
+Otro repositorio interesante, donde se expone una parte de un micro-frontend (componente en React): https://github.com/ogzhanolguncu/react-typescript-module-federation.git
