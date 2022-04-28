@@ -32,10 +32,10 @@ module.exports = {
 
   plugins: [
     new ModuleFederationPlugin({
-      name: 'microFrontEnd3',
+      name: 'microFrontEndReact',
       filename: 'remoteEntry.js',
       exposes: {
-        './MicroFrontEnd3Index': './src/index',
+        './MicroFrontEndReactIndex': './src/index',
       },
     }),
     new HtmlWebpackPlugin({
