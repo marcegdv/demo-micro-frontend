@@ -5,10 +5,10 @@ Para poder instalar y ejecutar las 4 apps:
 2) Luego de instalar las dependencias, dentro de cada carpeta raíz de cada app, usar el comando ```npm run webpack``` para iniciar cada app.
 
 Apps:
-container - localhost:8080
-micro-front-end-1: localhost:8081
-micro-front-end-2: localhost:8082
-react-microfrontend-3: localhost:8083
+* container - localhost:8080
+* micro-front-end-1: localhost:8081
+* micro-front-end-2: localhost:8082
+* react-microfrontend-3: localhost:8083
 
 ------------------------------------------------------------------
 
